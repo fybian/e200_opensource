@@ -1,5 +1,4 @@
 # README #
-tets
 There are several more docs under different directories which is very useful:
 
 https://github.com/SI-RISCV/e200_opensource/tree/master/doc/ 蜂鸟E203快速上手介绍.pdf
